@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstname": "gouracv",
+      "age": 233,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstname": "Raju",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstname": "Raj",
+      "age": 13,
+      "companyId": "2"
+    },
+    {
+      "firstname": "ramu",
+      "age": 40,
+      "id": "PD1QTY7"
+    },
+    {
+      "firstname": "ramu",
+      "age": 40,
+      "id": "m0p85be"
+    },
+    {
+      "firstname": "ramu",
+      "age": 40,
+      "id": "8-GxkBF"
+    },
+    {
+      "firstname": "ramu",
+      "age": 40,
+      "id": "mZe8WCP"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "apple",
+      "discption": "iphone"
+    },
+    {
+      "id": "2",
+      "name": "google",
+      "discption": "search"
+    }
+  ]
+}
